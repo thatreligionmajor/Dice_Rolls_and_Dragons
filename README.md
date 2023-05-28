@@ -1,8 +1,12 @@
 # Dice_Rolls_and_Dragons
 dice roller and general tomfoolery (5e)
 ## Table of Contents
+## Intro (the project as it is)
+## Technology (languages, etc.)
+## Launch
+## Scope
+## Sources
 
-#
 
 ## To Do
 Discord Bot
